@@ -59,12 +59,6 @@ To build an interactive Power BI dashboard that provides actionable insights int
 - Custom visuals and slicers
 - Dynamic KPI cards
 
----
-## Sample Dashboard
-![Dashboard Preview]("C:\Users\Safrin\Pictures\Screenshots\Screenshot 2025-07-28 211820.png")
-
-
-
 
 ## 📈 Insights Extracted
 
