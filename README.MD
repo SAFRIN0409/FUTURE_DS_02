@@ -61,7 +61,8 @@ To build an interactive Power BI dashboard that provides actionable insights int
 
 ---
 ## Sample Dashboard
-<img width="1675" height="926" alt="image" src="C:\Users\Safrin\Pictures\Screenshots\Screenshot 2025-07-28 211820.png" />
+![Dashboard Preview](assets/social-media-dashboard.png)
+
 
 
 
