@@ -54,7 +54,7 @@ To build an interactive Power BI dashboard that provides actionable insights int
 
 ## Sample Dashboard
 
-![Social Media Campaign Performance Tracker](./abfecd1f-e2ba-4abe-8b88-bc78c666f92b.png)
+![Social Media Campaign Performance Tracker]("C:\Users\Safrin\Pictures\Screenshots\Screenshot 2025-07-29 190026.png")
 
 
 
