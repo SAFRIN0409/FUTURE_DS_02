@@ -51,6 +51,8 @@ To build an interactive Power BI dashboard that provides actionable insights int
   - Gender (M/F)
 
 ---
+"C:\Users\Safrin\Pictures\Screenshots\Screenshot 2025-07-29 190026.png"
+
 
 ## 🛠️ Tools & Technologies Used
 
