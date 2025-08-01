@@ -52,10 +52,6 @@ To build an interactive Power BI dashboard that provides actionable insights int
 
 ---
 
-## Sample Dashboard
-
-"C:\Users\Safrin\Pictures\Screenshots\Screenshot 2025-08-01 210915.png"
-
 ## 🛠️ Tools & Technologies Used
 
 - Microsoft Power BI
